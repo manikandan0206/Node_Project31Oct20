@@ -72,8 +72,6 @@ module.exports.myFunctionTwo = () => {
 
 }
 
-
-
 r1.on('close', () => {
     console.log('correct !!!!');
 })
